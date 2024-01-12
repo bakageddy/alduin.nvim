@@ -91,7 +91,7 @@ local function get_groups()
 		CursorLineNr                = { fg = theme.orange, bg = theme.bg },
 		NonText                     = { fg = theme.black_soft },
 		SpecialKey                  = { fg = theme.black_soft },
-		Visual                      = { fg = "#1d2021", bg = theme.cyan, reverse = conf.invert_selection },
+		Visual                      = { bg = theme.bg, reverse = conf.invert_selection },
 		VisualNOS                   = { link = "Visual" },
 		Search                      = { fg = theme.bg, bg = theme.orange },
 		IncSearch                   = { fg = theme.bg, bg = theme.yellow },
