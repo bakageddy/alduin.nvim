@@ -1,0 +1,57 @@
+scheme: "Alduin"
+author: "Alessandro Yorba"
+
+background          #1c1c1c
+foreground          #dfdfaf
+cursor              #dfaf87
+
+color0              #1c1c1c
+color8              #262626
+
+color1              #e06b6b
+color9              #e06b6b
+
+color2              #af875f
+color10             #dfaf87
+
+color3              #ffdf87
+color11             #af5f00
+
+color4              #87afaf
+color12             #87afaf
+
+color5              #af8787
+color13             #af5f5f
+
+color6              #87875f
+color14             #87875f
+
+color7              #dfdfaf
+color15             #ffffff
+
+scheme: "Alduin"
+author: "Alessandro Yorba"
+base00: "#1c1c1c"    -- Black
+base08: "#444444"
+
+base01: "#8b5f61"	-- Red
+base09: "#9e744d"
+
+base02: "#d69f74"    -- Green
+base0A: "#c79a71"
+
+base03: "#747474"    -- Yellow
+base0B: "#fed975"
+
+base04: "#8b373c"    -- Blue
+base0C: "#9e4c40"
+
+base05: "#5f3a3c"    -- Magenta
+base0D: "#af0000"
+
+base06: "#87875f"    -- Cyan
+base0E: "#87afaf"
+
+base07: "#878787"    -- White
+base0F: "#ffffff"
+
