@@ -1,0 +1,11 @@
+[colors]
+foreground    = "#dfdfaf"
+background    = "#1c1c1c"
+cursor_fg     = "#1c1c1c"
+cursor_bg     = "#dfaf87"
+cursor_border = "#1c1c1c"
+ansi = ["#1c1c1c", "#8b5f61", "#87875f", "#d69f74", "#87afaf", "#af8787", "#878787", "#f4f4f4"]
+brights = ["#444444", "#e06b6b", "#87875f", "#fed975", "#87afaf", "#af8787", "#878787", "#f4f4f4"]
+
+[metadata]
+name = "Alduin"
