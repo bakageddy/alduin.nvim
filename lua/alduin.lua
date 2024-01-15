@@ -168,6 +168,25 @@ local function get_groups()
 		TelescopePromptPrefix       = { link = "AlduinRed" },
 		TelescopePrompt             = { link = "TelescopeNormal" },
 
+		-- Rainbow Delimiters
+		RainbowDelimiterRed         = { link = "AlduinRed" },
+		RainbowDelimiterOrange      = { link = "AlduinOrange" },
+		RainbowDelimiterYellow      = { link = "AlduinYellow" },
+		RainbowDelimiterGreen       = { link = "AlduinGreen" },
+		RainbowDelimiterBlue        = { link = "AlduinBlue" },
+		RainbowDelimiterViolet      = { link = "AlduinMagenta" },
+		RainbowDelimiterCyan        = { link = "AlduinCyan" },
+
+		-- diff
+		diffAdded                   = { link = "AlduinGreen" },
+		diffRemoved                 = { link = "AlduinCyan" },
+		diffChanged                 = { link = "AlduinBlue" },
+		diffOldFile                 = { link = "AlduinYellow" },
+		diffNewFile                 = { link = "AlduinOrange" },
+		diffFile                    = { link = "AlduinBlue" },
+		diffLine                    = { link = "AlduinGreen" },
+		diffIndexLine               = { link = "AlduinMagenta" },
+
 		-- Treesitter?
 		["@comment"]                = { link = "Comment" },
 		["@none"]                   = { bg = "NONE", fg = "NONE" },
